@@ -1,6 +1,6 @@
 # Entendendo APIs - HTTP, Requests e APIs com Python
 
-Bem-vindo ao repositório do curso "Entendendo APIs - HTTP, Requests e APIs com Python" da Asimov Academy. Este curso é voltado para iniciantes que desejam aprender a interagir com APIs utilizando Python, compreendendo o protocolo HTTP, criando requisições (Requests) e desenvolvendo Web Apps baseados em dados de APIs abertas e privadas.
+Repositório do curso "Entendendo APIs - HTTP, Requests e APIs com Python" da Asimov Academy. Este curso serviu para aprender e consolidar conceitos de APIs utilizando Python, compreendendo o protocolo HTTP, criando requisições (Requests) e desenvolvendo Web Apps baseados em dados de APIs abertas e privadas.
 
 ## O que foi aprendido:
 - Conceitos básicos sobre o funcionamento da Internet.
