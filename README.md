@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do curso "Entendendo APIs - HTTP, Requests e APIs com Python" da Asimov Academy. Este curso é voltado para iniciantes que desejam aprender a interagir com APIs utilizando Python, compreendendo o protocolo HTTP, criando requisições (Requests) e desenvolvendo Web Apps baseados em dados de APIs abertas e privadas.
 
-## O que você vai aprender:
+## O que foi aprendido:
 - Conceitos básicos sobre o funcionamento da Internet.
 - Como funciona o protocolo HTTP e a anatomia de uma requisição.
 - Compreensão dos códigos de status HTTP.
@@ -11,12 +11,12 @@ Bem-vindo ao repositório do curso "Entendendo APIs - HTTP, Requests e APIs com 
 - Desenvolvimento de Web Apps utilizando dados reais, como popularidade de nomes e informações climáticas.
 - Autenticação avançada usando JSON Web Tokens (JWTs).
   
-## Projetos práticos incluídos:
+## Projetos práticos construidos:
 - **Web App de Popularidade de Nomes do IBGE**: Acessa a API do IBGE para buscar a popularidade de nomes brasileiros.
 - **Web App de Previsão do Tempo com OpenWeather**: Acessa a API OpenWeather para exibir informações climáticas de cidades.
 - **Web App de Músicas Populares do Spotify**: Acessa a API do Spotify para listar as principais músicas de um artista.
 
-## Estrutura do Curso:
+## Resumo do Curso:
 
 ### Módulo 1: Como a Internet Funciona
 - Introdução ao curso e conceitos sobre HTTP.
